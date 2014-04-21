@@ -4,9 +4,26 @@ p{
 	color:red;
 }
 
+.second{
+	color:blue;
+}
+
+.byline{font-family: "georgia", sans-serif;
+		color:purple;
+}
+
 img{
 	height:200px;
 	width: 300px;
+}
+
+.list1{
+	background-color: yellow;
+}
+
+.dog{
+	height:400px;
+	width:600px;
 }
 
 ul{
